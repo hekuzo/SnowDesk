@@ -1,0 +1,8 @@
+# Собранная программа — выкладывается в Releases, а не в репозиторий
+*.exe
+*.pdb
+
+# Файлы тестового режима (--bench)
+bench.txt
+bench.png
+bench_panel.png
