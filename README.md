@@ -1,5 +1,10 @@
 # ❄️ SnowDesk
 
+[![Скачивания](https://img.shields.io/github/downloads/hekuzo/SnowDesk/total?label=%D1%81%D0%BA%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F&color=60baff)](../../releases)
+[![Релиз](https://img.shields.io/github/v/release/hekuzo/SnowDesk?label=%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F&color=60baff)](../../releases/latest)
+![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4)
+[![Лицензия](https://img.shields.io/github/license/hekuzo/SnowDesk?label=%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F)](LICENSE)
+
 **Настоящий снег на рабочем столе Windows.** Снежинки падают поверх экрана, копятся сугробами на окнах и панели задач, а из снега можно слепить снеговика.
 
 ![Снеговики на панели задач](docs/snowmen.png)
